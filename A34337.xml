@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Conquest of France with the life and glorious actions of Edward the Black Prince, son to Edward the Third, King of England, his victory, with about twelve thousand archers, and men at arms, over Phillip of France, and a hundred thousand French-men, near Cressey, his vanquishing King John of France, and taking him, and his son prisoners, at the Battle of Poietiers, his love to the Earl of Kent's fair daughter, and marriage with her : also all that passed during that glorious and successful war against France, with the Battle of Agen-Court, and King Henry the Fifth being crowned King of France at Paris, being a history full of great and noble actions in love and arms, to the honour of the English nation, and the encouragement of the horoes [sic] of the present age.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34337</idno>
+            <idno type="STC">Wing C5895</idno>
+            <idno type="STC">ESTC N70022</idno>
+            <idno type="EEBO-CITATION">16998824</idno>
+            <idno type="OCLC">ocm 16998824</idno>
+            <idno type="VID">105676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105676)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1612:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Conquest of France with the life and glorious actions of Edward the Black Prince, son to Edward the Third, King of England, his victory, with about twelve thousand archers, and men at arms, over Phillip of France, and a hundred thousand French-men, near Cressey, his vanquishing King John of France, and taking him, and his son prisoners, at the Battle of Poietiers, his love to the Earl of Kent's fair daughter, and marriage with her : also all that passed during that glorious and successful war against France, with the Battle of Agen-Court, and King Henry the Fifth being crowned King of France at Paris, being a history full of great and noble actions in love and arms, to the honour of the English nation, and the encouragement of the horoes [sic] of the present age.</title>
+               </titleStmt>
+               <extent>24 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Charles Bates ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Advertisements: p. 24.</note>
+                  <note>Imperfect: pages faded with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edward --  III, --  King of England, 1312-1377.</term>
+               <term>Henry --  V, --  King of England, 1387-1422.</term>
+               <term>Hundred Years' War, 1339-1453.</term>
+               <term>Crécy, Battle of, 1346.</term>
+               <term>Agincourt, Battle of, 1415.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105676:1"/>
+            <p>THE Conqueſt of France, WITH THE Life, and Glorious Actions of Edward the Black Prince,</p>
+            <p>Son to <hi>Edward</hi> the Third, King of <hi>England,</hi> his Victory, with about <hi>Twelve Thouſand</hi> Archers, and Men at Arms, over <hi>Phillip</hi> of <hi>FRANCE;</hi> and a Hundred Thou<g ref="char:EOLhyphen"/>ſand <hi>French-Men,</hi> near <hi>Creſſey;</hi> His Vanquiſhing King <hi>JOHN</hi> of <hi>France,</hi> and taking him, and his Son priſoners, at the Battle of <hi>Poictiers:</hi> His Love to the Earl of <hi>Kent's</hi> Fair Daughter, and marriage with her. Alſo all that paſſed during that Glorious and Succeſsful WAR againſt <hi>France,</hi> with the Battle of <hi>Agen-Court,</hi> and King <hi>HENRY</hi> the <hi>Fifth</hi> being Crowned King of <hi>France</hi> at <hi>Paris;</hi> being a Hiſtory full of Great and Noble Actions in Love and Arms, to the Hon<g ref="char:EOLhyphen"/>our of the <hi>Engliſh</hi> Nation; and the Encouragement of the <hi>Horoes</hi> of the preſnet Age.</p>
+            <figure>
+               <figDesc>battle scene between England and France with knight in foreground</figDesc>
+            </figure>
+            <p>Printed by <hi>A. M.</hi> for <hi>Charles Bates</hi> at the Sun and Bible in <hi>Pye-corner.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105676:2"/>
+            <pb n="3" facs="tcp:105676:2"/>
+            <head>The HISTORY of the <hi>Black Prince,</hi> &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>CHP. I.</head>
+               <argument>
+                  <p>How the <hi>French</hi> King, upon King <hi>Edward</hi> the <hi>Thirds</hi> coming to the Crown, ſent to him to come to <hi>Paris,</hi> and do him homage, for the Pallaces the <hi>Engliſh</hi> held in <hi>France;</hi> how he not only refuſed it, but layd claim to the Crown of <hi>France,</hi> Quartered their Arms with his own; entered into confederacy with the Neighbouring Princes, In<g ref="char:EOLhyphen"/>vaded them with powerful Armys, his love to the Counteſs of <hi>Salisbury,</hi> the order of the Garter, &amp;c.</p>
+               </argument>
+               <p>WHEN the Engliſh valour was famous, and more Renowned, than that of other Nations, our Warlike heroes contended more for fame than Gold, and brought a terror on their Enemys, wherever they carryed their Arm; proud <hi>France</hi> then trembled, and the <hi>Engliſh</hi> Lyon graſped, with ſo ſtrong a hand, their Golden Lillys, that all the ſtruggling of that large Kingdom was not able to reſcue them from the ſpoil, and becoming the trophies of out Conquering Princes, as I ſhall plainly and largely ſhow you in this Famous Hiſtory.</p>
+               <p>King <hi>Edward</hi> the <hi>third</hi> in his Fathers life-time took upon him the Ti<g ref="char:EOLhyphen"/>tle of king of <hi>England,</hi> by the conſent of the <hi>three</hi> Eſtates aſſembled in Parliament, when he was but <hi>Fifteen</hi> Years of Age, and Young as he was, ſhewed much of a Martial ſpirit, and promiſed great things to the world, which he accordingly performed, for having Warred ſucceſsfully in <hi>Scotland,</hi> and brought that to his terms, their king ſubmitting and hold<g ref="char:EOLhyphen"/>ing fealtie of him, he making and unmaking them at pleaſure: <hi>Phillip D' Valois</hi> The <hi>French</hi> king, began to miſtruſt his growing greatneſs, and think<g ref="char:EOLhyphen"/>ing whilſt he was young, to put a Check to his forward Valour, ſent to demand his Homage, for the Province of <hi>Guyen,</hi> held by him in the king<g ref="char:EOLhyphen"/>dom of <hi>France;</hi> but he not only <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outly refuſed it, in the terms the <hi>French</hi> Required it, by the Advice of his Peers, lay'd claim to the Crown of
+<pb n="4" facs="tcp:105676:3"/> 
+                  <hi>France,</hi> as coming to him in the right of Queen <hi>Iſabel</hi> his mother, bein his due both by civil Law, and order of Succeſſion, as being Nephew to <hi>Charles</hi> the <hi>Fourth,</hi> Brother to the ſaid <hi>Iſabel;</hi> and that as much as <hi>Phil<g ref="char:EOLhyphen"/>lip</hi> then Reigning, was deſcended of a ſecond Branch; to this the <hi>French</hi> oppoſed their Salſque Law, wherein it was provided, that no Woman ſhould inherit the Crown of <hi>France;</hi> but this being looked on as contrived to hinder the ſucceſſion of the <hi>Engliſh</hi> kings in their Marriages, with the Daughters of <hi>France,</hi> and king <hi>Edward</hi> declaring, he was a Male of a Female that had right to the Crown, that pretence ought not to Exclude him; a War upon theſe grounds was Proclaimed, the king quartering the Arms of <hi>France</hi> with thoſe of <hi>England,</hi> and laying a Peremptorie claime to the Crown.</p>
+               <p>This Buſineſs as it was extraordinary weighty, ſo it required much ſecrecy, untill it was well layed; for which purpoſe king <hi>Edward</hi> craved the Advice of the Earl of <hi>Hanault,</hi> Father to <hi>Phillipa</hi> his Queen, and Mother to <hi>Edward</hi> the <hi>Black Prince,</hi> who was growing up to great Acti<g ref="char:EOLhyphen"/>ons, as will hereafter appear; who with his Brother, and other Nobles of <hi>Flanders,</hi> procured king <hi>Edward</hi> to be created Vicar General of the Empire: that ſo without being controuled, he might command the No<g ref="char:EOLhyphen"/>bles, and common people of thoſe Countrys, to further his purpoſe in the intended War.</p>
+               <p>But how private ſoever theſe things were carried, <hi>Phillip,</hi> the <hi>French</hi> king had private notice of what was doing, and ſtopped the huge Army he <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad raiſed, at the Importunity of Pope <hi>Benedict,</hi> the <hi>Eleventh,</hi> from paſſing into the <hi>Holy Land,</hi> to war againſt the <hi>Turks</hi> and <hi>Sarazens,</hi> who there mightily oppreſſed the Chriſtians, Reſolving to defend his own Country from the threatened ſtorm.</p>
+               <p>In the mean while king <hi>Edward</hi> raiſed great Sums of Mony, and Leabyed men, and with his Queen Sailed into <hi>Flanders,</hi> where that Winter they remained at <hi>Antwerp,</hi> and Conferrnig with the Princes and States of <hi>Germany,</hi> he ſo well ſettled his Affairs, that in the Spring, he Landed in <hi>France,</hi> with an Army conſiſting of 27000 Fight<g ref="char:EOLhyphen"/>ing-men, bringing a great terror on the Country, though the <hi>French</hi> king had on Army of 60000 Common Souldiers to oppoſe him, being accom<g ref="char:EOLhyphen"/>panied with Three kings, <hi>viz.</hi> of <hi>Bohemia, Scotland,</hi> and <hi>Navarre,</hi> Five Dukes, Six and Twenty Earls, and more than Four Thouſond Lords, and knights; and ſo both Armys drawing into the Field, and approaching each other, as the bloody blaſt was about to be ſounded, by the Mediation of <hi>Jane,</hi> Counteſs of <hi>Hanault,</hi> Siſter to king <hi>Phillip,</hi> and Mother to king <hi>Edward</hi>'s Queen, they ſeperated from each other, without ſtriking a
+<pb n="5" facs="tcp:105676:3"/> blow, to the great diſcontent of the <hi>Engliſh,</hi> who full of Valour thirſted to begin the Battle on the firſt command.</p>
+               <p>King <hi>Edward</hi> however laid not aſide his pretentions, but hearing the <hi>French</hi> king had ſet out a great Fleet, conſiſting of 200 Sail of his own, and other Nations, he had hired, which had on Board them 40000 men, who Robbed the <hi>Engliſh</hi> Merchants, and made ſome ſpoils on our Coaſt, being full of Magnanimity and Valour, Reſolute in his purpoſes, and reckoning the <hi>French</hi> as his Subjects, and Inferiours in Arms; Eſpe<g ref="char:EOLhyphen"/>cially on the Seas, and hoping by his good ſucceſs, not only to win Hon<g ref="char:EOLhyphen"/>our among the Princes, and Sates of his confederacy, and purpoſing if he might to ſtrike Terror in the <hi>French</hi> Nation, concerning thoſe Wars, ſet upon their whole <hi>Navy,</hi> with ſuch incomparable courage, and bold ſpirit; that after a long, Obſtinate and Bloody Fight, very few or none of the <hi>French</hi> Ships eſcaped; but were either taken, ſunk, or burnt by the <hi>Engliſh,</hi> with a much Inferiour Number, with inconſiderable loſs on our ſide: This great Sea Victory much diſcouraged the <hi>French,</hi> and migh<g ref="char:EOLhyphen"/>tily encouraged the <hi>Engliſh,</hi> and their Confederates, ſo that the king land<g ref="char:EOLhyphen"/>ing at <hi>Slace</hi> in Triumph and going from thence to <hi>Gaunt,</hi> where his Queen lay, and the <hi>Black Prince</hi> was accompanied with Seven Earls, Eight Biſhops, Twenty eight Barrons, Two Hundred knights, 4000 Men at Arms, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Thouſand Archers; all Valiant <hi>Engliſh-Men,</hi> he joyned the Duke of <hi>Brabant,</hi> who commanded 22000 men, <hi>Jaques Dartwell</hi> a famous <hi>Fleming,</hi> who commanded 60000 men of theſe Provinces, alſo the Duke of <hi>Guilder,</hi> the Marqueſs of <hi>Meuſe,</hi> the Earls of <hi>Juliers, Mons, Savens,</hi> and <hi>Hanault,</hi> the Lord <hi>Tralquemont,</hi> and divers others.</p>
+               <p>With this gallant Army he Beſieged the Strong City of <hi>Tournay,</hi> which was with great Reſolutiou and Valour Manfully defended, for the ſpace of ten weeks; in all which time, the <hi>French</hi> king appeared not to Relieve it; however, by the Mediation of the aforementioned <hi>Jane De' Valois,</hi> Mother to the Queen of <hi>England,</hi> and to the Dutches of <hi>Juliers,</hi> to the then Earl of <hi>Hanault,</hi> and Siſter to the <hi>French</hi> king, a Truce was once more concluded; but that expired, ſoon after theſe delays the War be<g ref="char:EOLhyphen"/>gun in earneſt.</p>
+               <p>During theſe tranſactions, the king returned home to beat the <hi>Scots</hi> out of <hi>England,</hi> who; in his abſence, dared to Invade it, under the Lea<g ref="char:EOLhyphen"/>ding of <hi>David</hi> their king, fell deſperately in Love with the Fair Counteſs of <hi>Salisbury;</hi> in this manner having delivered her from the Siege layed to her Caſtle of <hi>Roxbourough,</hi> hard preſſed by the <hi>Scots,</hi> he diſarmed him<g ref="char:EOLhyphen"/>ſelf and with ten or twelve Lords and knights, entered the Caſtle, where the excellent Beauty, and modeſt behaviour of the ſweet Counteſs, ſo In<g ref="char:EOLhyphen"/>flamed
+<pb n="6" facs="tcp:105676:4"/> his heart, that by ſecret and Amorous wooing, he endeavoured to perſwade her to eaſe his paſſion, with a return of her Love; but the Vir<g ref="char:EOLhyphen"/>tuous Lady, firſt with mild and kind entreatys, and afterward with quick and nipping Reprehenſions, ſtrove to make him ſee his own Error; but ſuch was his deſire, and her denyal<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were ſo peremptorie, and reſolute, that Diſcontentedly at that time he left her; yet love ſtill prevailing, he wrote the following Letter to her.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The King's Letter to the Counteſs of <hi>Salisbury.</hi>
+                     </head>
+                     <salute>Fair Counteſs.</salute>
+                     <p>Your Eyes have enthralled my heart, and A midſt the Alarums of War, my thoughts are chained to your Beautys, and other rare perfections; take compaſſion on a King, which nothing on Earth, but your Peerleſs ſelf, can bring to the low ſubmiſſion of a ſupplicant; I own your Virtues are great, yet to ſave the life of a Monarch, what ſhould not one, who is all Goodneſs, and tenderly made for Compaſſion, like you, do? Let me entreat you then to take Compaſſion on the ſufferings of my labouring mind, that I may be reſtored to my former peace and tranqui<g ref="char:EOLhyphen"/>lity; &amp; become pleaſent to my friends, and as I have been wont, a terror to the enemy of my Country: So in expectation you will Relent, and become mild and merciful, I reſt in hopes of enjoying that bleſſing, I ſo earneſtly wiſh for, and paſſionately deſire;</p>
+                     <closer>
+                        <signed>Your devout Lover though a King.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The vertuous Counteſs having well weighed the Contents of this Let<g ref="char:EOLhyphen"/>ter, was much troubled in her mind, her bluſhes came and went; ſhe well knew the King was already married to a Fair and Virtuous Princeſs; &amp; that he ſought by unlawful Love to defile her bed; this ſome times put her unto a grievous paſſion, and then relenting, Pearly tears trickled from her Eyes, conſidering if ſhe yielded, how much it would turn to her diſhonour; and if ſhe refuſed, how much ſhe muſt trouble and afflict the braveſt Prince on Earth; at other times, ſhe conſidered, ſhe was his Subject, and in his power, and knew not to what force his wild paſſion might carry him; yet tender and careful of her chaſttiy and honour; in the end ſhe returned him this anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The COUNTESSES Anſwer.</head>
+                     <salute>My Soveraign!</salute>
+                     <p>COuld you but conceive what trouble and diſturbance Your Letter has wrought in my mind, you would ceaſe to afflict me, who ſo highly Honour you in all Virtuous ways; but in this matter, without a violation of my Honour, cannot Condeſcend to pleaſure you; Conſider you are Marryed to a Chaſt and Virtuous Queen, who Loves and Honours you; how then can you ſtray from the Rules of that virtue, you have ever Ex<g ref="char:EOLhyphen"/>erciſed,
+<pb n="7" facs="tcp:105676:4"/> and Encouraged in others; to harbour thoughts in your Royal Breaſt, of wronging her Bed? Ceaſe then, great Sir, to perſecute me with your Love, that cannot be Lawfully returned; lay aſide your paſſion, and be again your ſelf: I am indeed your ſubject, and you may indeed com<g ref="char:EOLhyphen"/>mand my life and fortunes, but not in a Diſhonourable way, the ſpotting my innocency, and Chaſtity, the firſt of whic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>I</hi> will always be ready to ſacrifice, to the preſervation of the Latter: So humbly Entreating you to conſider and weigh theſe things; I remain your much afflicted Subject and Servant.</p>
+                     <closer>
+                        <signed>Salisbury.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The King upon Receipt of this Letter was not a little Abaſhed, torment<g ref="char:EOLhyphen"/>ing himſelf for a time, thus to be Repulſed; but caſting many things in his mind, at length he Concluded, time, and Rich preſents, might overcome her Womaniſh fears and ſcruples, rendering her more tractable; and in this buſineſs, he truſted his faithful Confident, the Lo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <hi>Montaone,</hi> Bro<g ref="char:EOLhyphen"/>ther in Law to the Counteſs, who Ignorant of the King's main intentions, ſo ſolicited his Fair Siſter, that he brought her to Court, in Honour of whoſe preſence, the King cauſed Magnificent Sports and Paſtimes; and at laſt won ſo much upon her as to dance with him; when in the end of the Dance a Blew Ribbon, which ſhe had for her Garter, falling off; the King ſtooped, and took it up; at which the Counteſs bluſhed, and the Nobles ſmiled, whereat the King ſaid, <hi>Honi Soit Qui Male Panſe; evil be to him that evil thinketh:</hi> Vowing, that e'er long, the greateſt of them, ſhould do Honour to that ſilken tye, and having Created his Son <hi>Edward,</hi> the Black Prince (ſo called from his terrible deeds in War) Prince of <hi>Wales,</hi> he Eſtabliſhed the Order of the Garter, Confining the number to 26 of which himſelf, and his Succeſſors were Soveraigns, which Order is Yearly Solemnized, with Princely Magnificence in the Kings Caſtle at <hi>Windſor.</hi>
+               </p>
+               <p>But now to paſs from Love again to Arms, we find the Drums rattling, and the Trumpets ſounding to War; great Armys prepared on either ſide, and the Earl of <hi>Darby</hi> Landed with the King's Forces in <hi>Gaſcoin,</hi> where they drove the French Army before them, and took many Citys, Towns and Caſtles, ſubduing almoſt all that large Province in ſmall time.</p>
+               <p>But now come I to ſpeak of the black Prince, that honour of virtue, and Valour, more particularly than I have done.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="8" facs="tcp:105676:5"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>The Birth of the Renowned and Victorious Black, what progedies and wonders then happened, preſaning his greatneſs; His forward valour and activity in his young days; His firſt wars under his Father in <hi>France;</hi> and the great advantages that enſued; How King <hi>Edward</hi> Challenged the <hi>French</hi> King, and on what account he refuſed it; with other matters.</p>
+               </argument>
+               <p>PRince <hi>Edward</hi> Sirnaned (for his Valorous Actions, ſo much ſpoken of throughout the world) the <hi>Black Prince,</hi> was born at <hi>Greenwich,</hi> the <hi>14th of May</hi> 1336, being the Eldeſt Son of King <hi>Edward</hi> the Third, and His beautious Queen <hi>Phillip<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Daughter to the Carl of <hi>Hanault;</hi> at his birth a blazing Star appeared with a fiery tail, like a bloody Sword, point<g ref="char:EOLhyphen"/>ing towards <hi>France,</hi> at South Eaſt; and bringing a terror upon the world; the Sea overflowed its banks in many places, and retiring again, left ſtrange Monſterous Fifth on the Shore, the like never having, béen ſeen on our coaſt; In <hi>Devonſhire,</hi> Armys were ſeen Fighting in the Air, with great blaſts of Thunder and Lightening; that which came from the North vanquiſhing &amp; purſuing the Southern Army, till it was clear out of ſight; then the skys o'recaſt, and became as red as blood, red Glares of Lightening frequently breaking out, to the threatening a diſtruction of thoſe that were near In<g ref="char:EOLhyphen"/>habitants:</p>
+               <p>Theſe ſtrange p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogidies, made people look for ſome wonderful Event of things, and indeed they happened ſoon after in a cruel war between two mighty Nations, in which this Prince (now born) was to <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo great a part.</p>
+               <p>The King his Father though as yet he was his only Son, brought him not up nicely and tenderly; but as ſoon as he had, in a manner, paſſed his Sawdling-cleaths, enured him to hardſhips, in Kiding, Travelling on foot, Running, Shooting in the long bow, Managing the great Horſe, running Carrears, Leaping, and in the uſe of the Sword; in all which he became very Expert and Dexterous, Training up many Children under him, as his Souldiers, when he was very young; and theſe he took great Delight to exerciſe, making them expert in the trains of War: So that growing up with him, he preferred them to Commands, many of which became brave Souldiers, and great Commanders, doing wonderous feats in Arms, to the Terror of their Ensmys, their own Fame, and the Honour of their Country.</p>
+               <p>He was ſcarce Fifteen years Old when the King his Father took him to the Wars, both againſt <hi>Scotland,</hi> and <hi>France;</hi> and <hi>Jaques Dartwell</hi> the great General of the <hi>Flemings,</hi> was ſo taken with his monly aſpect, &amp; promiſing virtues, that he laboured to depoſe <hi>Loys</hi> Earl of <hi>Flanders,</hi> as
+<pb n="9" facs="tcp:105676:5"/> laizey cowardly, and unfit for Government, and place the Prince over thoſe Provinces; and thus he propoſed to the Nobles in their Aſſembly, with ſo much earneſtneſs, Magnifying the young Prince's Early Valour, and promiſing virtues to that degree, that though he was all in all with them before he ſo far incouraged their hatred, that they incenſed the common peo<g ref="char:EOLhyphen"/>ple againſt him, as one that intended to betray the liberty of his Country to ſtrangers, which took ſo effectually with thoſe that had adored him a little before, that he no ſooner came home to his houſe at <hi>Gaunt,</hi> but it was beſt by the Multitude, when comming ont to appraſe them, they in a populer fury Murthered him; and this for a time much hindered King <hi>Edward's</hi> affairs; for the flemnigs and others revolted from him; but he did not great<g ref="char:EOLunhyphen"/>ly regard it, reſolving to purſue his right, and by his own power thruſt his Sword into the bowels of <hi>France.</hi>
+               </p>
+               <p>The King being now informed, that <hi>John</hi> the Eldeſt Son of the <hi>French</hi> King had Beſieged the Caſtle of <hi>Auguillion,</hi> in <hi>Gaſcoine,</hi> he took the Prince with him, and a conſiderable Army, at the terror of whoſe approach, the <hi>French</hi> raiſed the Siege, and fled: After this he paſſed into <hi>Norman<g ref="char:EOLhyphen"/>dy,</hi> took the rich City of <hi>Harefl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re</hi> without Reſiſtance, and beſtowed the ſpoil on his Souldiers; after this he ſpoiled the Rich Towns of <hi>Cheribo<g ref="char:EOLhyphen"/>rough, Mount-borough Quarentive,</hi> and the Caſtle there; and increaſing his Army, took the great and Rich City of <hi>Cane in Normandy;</hi> in which were the Earls of <hi>Tankervile, Ewe,</hi> and <hi>Guyers,</hi> who had brought For<g ref="char:EOLhyphen"/>ces thither; theſe were made priſoners to Sir <hi>Thomas Holland, an En<g ref="char:EOLhyphen"/>gliſh</hi> Knight, with one Eye, who ſold them to the King; and they (with the Rich Spoils) were ſent Priſoners to <hi>England:</hi> Then the Army march<g ref="char:EOLhyphen"/>ing to <hi>Lowers,</hi> quickly won it, s aalſo <hi>Gilors vernor,</hi> St. <hi>Germains Enley, Mountrell</hi> St. <hi>Cloudy Rely,</hi> and the whole Country about <hi>Roan, Pout, De Larch, Nauts, Newlench, Robois Fountain, Polis Vinne;</hi> &amp; in all the places he found but weak Reſiſtance, of which <hi>Phillip,</hi> the French King, having intelligence; and that King <hi>Edward</hi> with his whole Army was within two Leagues of <hi>Paris,</hi> he fearfully left that City, and went to St. <hi>Denis,</hi> where his Army lay, perſwading the <hi>Pariſions,</hi> that the <hi>Engliſh</hi> dared not to look them in the Face, but their fears made them not Credit it, eſpecially when they heard the Lord <hi>Harecourt,</hi> King <hi>Edward</hi>'s Mar<g ref="char:EOLhyphen"/>ſhall, had routed the Forces that were coming from <hi>Ancidus,</hi> to their aſſiſt<g ref="char:EOLhyphen"/>ance, killing, and taking moſt of them Priſoners.</p>
+               <p>The <hi>Engliſh</hi> Army, under the King, and Black Prince, being thus Victorious, paſſed uncontrouled to the Gates of <hi>Abaville,</hi> and St. <hi>Valary;</hi> but they were, for want of guides to direct them, un-a-wars Entangled with the River Some on the one ſide, and the <hi>French</hi> Army on the other, which conſiſted of 100000 men; and the place where he was, promiſed
+<pb n="10" facs="tcp:105676:6"/> him no advantage if he ſhould fight, but rather manifeſted many Incon<g ref="char:EOLhyphen"/>veniencies: This made the King and Prince conſult with the <hi>French</hi> Priſoners, promiſing Rewards, if they could find any paſſable foards in the River, which one <hi>Gobin</hi> of <hi>Grace</hi> undertook to do; but when the King had Marched his Army thither, he found it defended by 12000 <hi>French;</hi> yet when the ſea was Ehed, he, with the Prince, and the whole Army, put themſelves into the water, as likewiſe on the other ſide, did the <hi>French;</hi> ſo that the fight was bloody, and doubtful, for a long time in the middle of the River; ſome were ſlain by the Sword, others beaten down, and drowned in the River; but the <hi>Engliſh</hi> at length prevailing, with great ſlaughter of the Enemy, purſued them in full chaſe a League; and ſo the whole <hi>Engliſh</hi> Army having paſſed the River, and Refreſhing themſelves, reſolved to abide the whole power of <hi>France,</hi> though ſix times their number, and dare them to a Battel; King <hi>Edward,</hi> to his immortal Honour ſent a Challenge to the <hi>French</hi> King, to fight him by ſingle Cambate, between both Armys; but he excuſed it cunningly, by aledging it was ſent to him by the name of <hi>Philip De Vallois,</hi> and not by the Title of <hi>King of France;</hi> and therefore he ſhould betray his Royal Dignity, in accepting it; how<g ref="char:EOLhyphen"/>ever, both Armys drew near, &amp; the bloody day approached wherein ſtreams of Gore muſt wet the Earth, and Crimſon its green Carpit, wich a ſan<g ref="char:EOLhyphen"/>guin Dye; and of this battel, Fortune deſigned the Prince the Conduct, and Glory, to new fledge his plumes with Fame and Renown.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>How King <hi>Edward</hi> with the <hi>Black Prince,</hi> marching with a ſmall Army into the bowels of <hi>France,</hi> met <hi>Philip</hi> the <hi>French</hi> King; with an Army of 100000 men near <hi>Creſſey;</hi> How the <hi>Black Prince,</hi> deſired the con<g ref="char:EOLhyphen"/>duct of the Battel; And how the King and he in diſguiſe went in the night into the Tents of the Souldiers, and were over-joyed to find them full of Courage; How the battel was fought, and the <hi>French</hi> Routed, with incredible ſlaughter, by the <hi>Black Prince,</hi> Of the taking of <hi>Callice,</hi> and many other remarkable things, to the Glory of the <hi>Engliſh</hi> Nation, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>THe <hi>French</hi> King relying on his great Numbers, thinking the <hi>Engliſh</hi> thus entangled in the heart of his Country, were in a manner En<g ref="char:EOLhyphen"/>trapped in a ſnare, and could not avoid deſtruction, which battel gained, &amp; perhaps our king as a priſoner, would for ever Quell the <hi>Engliſh</hi> Claime to the <hi>French</hi> Diadem; with theſe hopes, and healing thoughts, he d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew all his Forces near king <hi>Edward</hi>'s Army, in a ſpacious field, near the Town of <hi>Creſſey.</hi> King <hi>Edward</hi> and the Black Prince <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> of their
+<pb n="11" facs="tcp:105676:6"/> Numbers, proceeded with all diligence to put their Army in Aarry of battel; the Prince entreating of his Father, that he might have the Conduct of the battel, to win his Golden ſpurs of Knight-hood, having lately been made Knight of the Garter; or, if ſo Heaven ordered it, looſe his life with the Honour of the Day; to this, the King eaſily conſented, as having before Determined it.</p>
+               <p>The whole Army immediately upon this was divided into Three battels, which the prince cauſed to be ſo Imparked, or Barrocaded behind, with Carriages and Carts, that the Enemy ſhould not be able, if they Encloſed them with their Numbers, eaſily to break into their Rear.</p>
+               <p>The firſt Battel was Led by the Black Prince, who was aſſiſted by the Earl of <hi>Warwick,</hi> and <hi>Canford:</hi> The Lord <hi>Harecourt, Stafford, Manny, Delawar, Chandois, Cliflord,</hi> and <hi>Bourcher;</hi> Sir <hi>Reynald Cobham,</hi> Sir <hi>Thomas Cobham,</hi> Sir <hi>Roger Ne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il,</hi> and others; conſiſting of 800 men at Arms, 2000 Archers, and 1000 other Souldiers.</p>
+               <p>The ſecond Battel was Commanded by the Earls of <hi>Northampton</hi> and <hi>Arundell,</hi> accompanied by the Lords <hi>Roſs, Lygo, Willoughby, Baſſet,</hi> St. <hi>Auban, Milleton,</hi> and <hi>Delaſale;</hi> with many other Lords, Knights, and Gentlemen of Note, conſiſting of 800 men at Arms, and 1200 Archers.</p>
+               <p>The Third and main Battle, being placed between the other two, was Commanded by the King, aſſiſted by three Earls, and many Lords, and knights, Conſiſting of 700 men at Arms, 2000 Archers, and 1000 other Souldiers, well approved and appointed for the War.</p>
+               <p>Being thus ordered in Expectation of the Enemy, the approach of night hindred their joyning then in battel; the French not withſtanding their great brags, much declyning it: ſo they ſpent the night in Prayers to God, and moderate Refreſhment, whilſt the king and Prince in Diſguise, went from Tent to Tent, to ſée how their Courage ſtood affected; asking the private Souldiers, what they thought of the number of the French Army, &amp; whe<g ref="char:EOLhyphen"/>ther the news held; they ſhould certainly fight on the morrow, with many ſuch Queſtions: How the king and Prince ſtood affected in the matter?</p>
+               <p>To this the Souldiers (not knowing them) replyed, as for the French Numbers, they minded them not, for they ſhould<g ref="char:punc">▪</g> ſoon by Engliſh Valour, &amp; the deadly points of their Arrows, which they had ſharpened, to the purpoſe, be leſſened, and God willing brought to confuſion; as for the certainty they ſhould fight on the morrow, which they earneſtly deſired, and were willing to ſpend their blood in the honourable cauſe of their king and Coun<g ref="char:EOLhyphen"/>try, they doubted not, unleſs the French declined it, by retiring that night; as for the king and Prince, they ſaid, they doubted not of their Courage ſo often approved, and were proud to loſe their lives, fighting un<g ref="char:EOLhyphen"/>der their Command.</p>
+               <pb n="12" facs="tcp:105676:7"/>
+               <p>Theſe words from the unthinking Souldiers, greatly pleaſed the King and Prince, and from their natural Courage and Alacrity, drew certain preſages of Victory; and ſo having gone round the Camp, betook them<g ref="char:EOLhyphen"/>ſelves for a few hours to their repoſe.</p>
+               <p>Early in the morning the ſignal for battel was given on both ſides, the <hi>French</hi> out of a Bravado firſt beginning it; Then <hi>Philip</hi> their King, or<g ref="char:EOLhyphen"/>dered 15000 <hi>Genoways,</hi> with their Croſs-hows, ſhooting ſteel Arrows, ſquare headed to begin the fight; &amp; theſe made their fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt on-ſet on the Princes b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttel, but either for want of skill, or making more haſt than good ſpeed, they were put into foul diſorder by the <hi>Engliſh</hi> Archers, the greater part of them ſlain, and the reſt ſoon defeated, &amp; compelled to retire; in which ſo violent haſt, in rude heaps they ruſhed unto the French King's battel, and ſo diſordered it, that the French, without mercy put moſt of them to the Sword.</p>
+               <p>This firſt bad ſucceſs did not ſo diſcourage the French, but that truſting to their numbers, they came reſolutely on, and chiefly charged the Princes B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttel with great fury, as eagerly thirſting for Revenge; but he ſtoutly repelled them, doing wonders in Perſon; and by his valiant Example, ſo encouraged his men, that they fought like Lyons, laying thouſands of their Enemys dead before them; and yet for all the Numbers that preſſed on them, maintained their battle entire, and unbroken; by means whereof <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey made prodigal expence and havoke of the French-men; who being firſt broken could not obſerve any order at all, nor help themſelves by any In<g ref="char:EOLhyphen"/>genious Policy of war; yet, though they fell in great Numbers before the Price's battel, yet thoſe that came to ſtop the gaps, Detah had made, preſſed hard on, and many of them met the like fate; however, the preſſing numbers gave no leaſure to the Prince, nor his aſſiſtants to breath, or take any reſpite of refreſhment, hoping by that means to weary and tire them out; ſo that the brave Prince, though he were full of Incomparable Va<g ref="char:EOLhyphen"/>lour, and Reſolution, yet being diſtſteſſed for want of a breathing-time, ſent to the King, who ſtood a Looker on with his Battle untouched, to come to his Relief.</p>
+               <p>Of the Meſſenger ſent, the King enquired whether his Son was alive or not, to which he replyed he was, and then fighting among the thickeſt of the Enemy; If ſo, ſaid the king, tell him from me, that he muſt expect no Aid, for this ſhall be the day in which he ſhall winn honour, and his Spurs of knight-hood, or loſe his life; for in life or death, he ſhall ingroſs to himſelf the whole honour and glory of this day.</p>
+               <p>When the Prince was informed what the king had ſaid, being urged by ſharp neceſſity, and Annimated with freſh hopes of a Famous Victory, he
+<pb n="13" facs="tcp:105676:7"/> Encouraged his Companions in Arms, that they rewed, and redoubled their ſtrength and courage, and fought with ſuch undaunted ſpirits, that the <hi>French-men</hi> fainted, and fled, and were ſo eagerly purſued that the greater part of their Numerous Army lay breathleſs on the ground, and in the Chaſe, two Marſhalls of <hi>England</hi> Encountred with a multitude of the Inhabitants of <hi>Bevois, Regmerry, Aubiville,</hi> and <hi>Roan,</hi> who ignorant of the defeat, were marching to the <hi>French</hi> Army, of whom 7000 were ſlain, and the reſt ſaved themſelves by flight; and the next day they were charged by the Arch-Biſhop of <hi>Roan</hi> and Grand <hi>Prior</hi> of <hi>France,</hi> who conducted a ſtrong Army, whom they worſted, killing great numbers of them: ſo that in theſe battles there were ſlain of the French, 11 Princes, 80 Barrnons, 1200 Knights, and n<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> then 30000 Souldiers: the French king being forced to fly haſtily out of the Battel to ſave his life. The Plunder of the Field was beſtowed on the Army, and the dead bodys, of ſuch as were of Note king <hi>Edward</hi> car<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yed with him to <hi>Mountrel,</hi> and there with due Solemnity, cauſed them honourably to be buried.</p>
+               <p>The king and Prince thus Victorious over their Enemies, marched through the Country without any oppoſſition and begirt the ſtrong tow of <hi>Callis,</hi> with a ſtraight Siege; to the Relief of which, ater<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a Year, the <hi>French</hi> king came with an Army of 20000 men, but findin all the paſſages ſtopped, he ſent to Challeng the king to a battel in the fair field, as to knowing the Town could not <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hold out; and that in the long ſiege his men were waſted, ſent him word, he never feared to meet in the field, as to his Coſt he had proved; but now knowing his advantage at this time, he would declyn it, and gave him the ſatisfaction he required at another time; Vpon this the <hi>French</hi> king broke up his Numerous Army and departed and <hi>Calliciaus</hi> deſparing of Relief, being ſorely oppreſſed with famine, they began to deſpair of a longer holding out, and finding no hopes of relief from the <hi>French</hi> king, they humbled themſelves to king <hi>Edward,</hi> and ſought his mercy, whereupon he Commanded that Sir of the principal inhabi<g ref="char:EOLhyphen"/>tants ſhould come to him bare Headed, and bare Legged, with ropes about their Necks, and bring the key of the town and caſtle, weich they did: The keys He received, but commanded the perſons to be <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anged, as a terror for their obſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nate holding out and Robbing the <hi>Engliſh</hi> Merchants: but at the interceſſion of the Quéen and Prince, they were pardoned: and he made Sir <hi>Andrew D' Patt</hi> the Lombard Captain of it and it was held in the hands of the <hi>Engliſh,</hi> till the Reign of Queen <hi>Mary</hi> when it was <hi>loſt</hi> again to the <hi>French,</hi> upon her aſſiſting king <hi>Philip</hi> her Husband, contrary to the Treaty, with Forces, and ſoon after this <hi>Philip De Valois,</hi> the <hi>French</hi> king Dyed, and his Son <hi>John</hi> was Crowned.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="14" facs="tcp:105676:8"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>How King <hi>Edward</hi> and the <hi>Black Prince</hi> returned to <hi>England in</hi> triumph, and how being Entertained at Dinner, by the Earl of <hi>Kent,</hi> the Prince fell in Love with his Daughter; Called the fair Maid of <hi>Kent:</hi> And what then and afterwards paſſed between them, vowing to each other Eternal Love and Conſtancy.</p>
+               </argument>
+               <p>KIng <hi>Edward</hi> having ſetled his affairs in <hi>France</hi> proſperouſly, come to <hi>England,</hi> with the Queen and Prince, and was received with great Ioy and Triumph at his Landing at <hi>Dover,</hi> when in his way dining with the Earl of <hi>Kent,</hi> the Prince fixed his eyes on <hi>Joanna</hi> or <hi>Joan,</hi> the Earl's Daughter, whoſe rare Beautys were ſo Admirable, that ſhe was uſu<g ref="char:EOLhyphen"/>ally called the <hi>Fair Maid of Kent;</hi> This peerleſs Lady ſoon made our Ho<g ref="char:EOLhyphen"/>roick Prince become Enamoured of her, yet not knowing how his Father might take it, who deſigned to match him to ſome Forreign Princeſs, to ſtrengthen his alliance, he at this time, bridled his paſſion all he could; yet his kind diſcourſes to her, and the more powerful Language of his Eyes; ſor Lovers Eyes will talk, made her ſee ſhe was not Indifferent to him, but fearing ſo brave a Prince, and next Heir to the Crown, ra<g ref="char:EOLhyphen"/>ther had ſet his Eyes on her for luſt, than lawful Love in Marriage; which fear much grieved and afflicted the tender Lady; but the Prince, whoſe Virtues were rare &amp; ſingular, had his mind far from ſuch thoughts, and was perplexing himſelf, when he was abſcent from her, how he might might bring about his deſign of marriage with her, fearing, if he delayed to make known his mind, ſhe ignorant of his paſſion, might give her ſelf up to the Arms of another, and ſo rob him of all his expected Ioys; for he was very ſenſible that the moſt Exalted Beauty in the kingdom. accompa<g ref="char:EOLhyphen"/>nied with ſuch modeſty and virtue, could not want Adorers; and therefore knowing the <hi>French</hi> Wars would ſoon require his preſence, he reſolved, as ſoon as poſſible, to let her know his Virtuous, and unfeigned love for her, and labour if poſſible to gain her conſent, and then do the like to re<g ref="char:EOLhyphen"/>move all difficulties that might ſtand in the way of his happineſs; ſo un<g ref="char:EOLhyphen"/>dertaking to hunt in thoſe parts, when the Game was rouſed, and every one in purſuit of it, The Princes came to the Earl's Houſe, and found the precious Iewel of his heart attended only by her Waiting-woman, the reſt of the Family being abroad.</p>
+               <figure>
+                  <figDesc>lady and gentleman walking in an arbor</figDesc>
+               </figure>
+               <pb n="16" facs="tcp:105676:9"/>
+               <p>This the Lady perceiving, intreated him to tell her the cauſe of the Diſturbance of his mind, which ſhe ſaid ſhe ſaw viſibly in his Countenance, and if any thing lay in her power, ſhe would even bear a part with him to eaſe it.</p>
+               <p>The Prince at this favourable opportunity, graſping her fair Hand, ſaid, <hi>Ah! Lady, it is in your power I know, to eaſe the doubts and fears that labour in my mind: I wiſh it may</hi> (ſaid the Lady fréely, and ſmiling, though not without bluſhes) <hi>but I cannot be your Phyſitian, unleſs I know your grief. Ah! Fair Lady,</hi> (ſaid the Prince) <hi>Since I firſt ſet Eyes on your Rare Beautys, Adorned with a pomp of winning Graces, my heart has been made Your Captive, and this opportunity I have taken, to know from your Beautiful Lips, whether you will relieve me by your Love.</hi>
+               </p>
+               <p>
+                  <hi>Alas, my Lord</hi> (replyed the Lady, ſtill bluſhing) <hi>my Love! why if You wiſh for that Love which is in my power to give, that is Chaſt and Unſpotted Love, warranted by the ſtrict Rules of Virtue and I ſafely do it? You ſhould not pain, not pine; the favour is too mighty for me, and that makes me doubt a happineſs meant to me that way, by a Prince whoſe Royalty and fame many bring him a Queen, with Kingdoms to her Dowowre, will ever be mine: moſt kind lady</hi> (ſaid the Prince) <hi>with much Joy, doubt not but that love I pretend,</hi> is Chaſt, and 'tis you above all the Queens on Earth that I apply my ſelf to; make <hi>me happy, O con<g ref="char:EOLhyphen"/>ſider</hi> (ſaid ſhe) <hi>my</hi> Lord, <hi>how dangerous 'tis for me to entertain your love, though there may be no doubt of your Virtuous and Real Intentions, ſince the King's Anger may break in upon me, and my Family, to their Ruin: doubt it not, thou beſt of Women,</hi> (embracing her tenderly in his Arms;) <hi>I will ſtand between them and you, againſt his fierce Thunder, and periſh rather than any harm ſhall befall You; but there is no need of ſuch a fear, only let me be aſſured of your love and conſtancy; and at my return, I will ſo work the matters, that our Marriage ſhall not be hindred:</hi> after theſe, and ſuch other like diſcourſes, they Sealed their Af<g ref="char:EOLhyphen"/>fections with mutual Vows; and ſo at this time, after many tender kiſſes, not without tears, they parted.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="17" facs="tcp:105676:9"/>
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>How the Black Prince went again into <hi>France</hi> with an Army, won many ſtrong places, and fought with a ſmall number of Archers, and Men of Arms, againſt <hi>John</hi> the <hi>French</hi> King, overthrew his Army, near <hi>Poicters</hi> of 120000 men, took him and his Son <hi>Philip</hi> Priſoners; His Return to <hi>England,</hi> Married the Fair maid of <hi>Kent:</hi> The <hi>French</hi> King Ranſomed. and a Peace Concluded very Advantegeous.</p>
+               </argument>
+               <p>BVt now the Trumpets ſound again to War, and the ſoft tents of <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> muſt be left for the Seely beds of <hi>Mars;</hi> The Prince muſt paſs the Seas, and ſo the Lovers parted with Vows of Eternal Conſtancy to each other, and as faithfully kept their promiſe: Far a ſhort Truce that had been made with <hi>France,</hi> expiring, he was ſent with an Army into <hi>Gaſcony,</hi> where Landing he breathed ſuch a terror on that Province, that the French venumed with fear, grew heartleſs; ſo that a great number of Towns and Caſtles fell into his hands, making little or no Reſiſtance. This made the new King <hi>John</hi> haſten his Army into the field, in hopes to ſtop the Torrent, not doubting to oppreſs the Prince whoſe Army conſiſted not of above ten or twelve thouſand men, with his bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>key numbers, and ſo accompanyed with <hi>Philip</hi> his youngeſt ſon, he Marched forward towards <hi>Poictiers,</hi> where the <hi>Engliſh</hi> army lay, and were preparing to Receive him, and the Battel ſoon began with great fury; as for the French King, he had devided his Army into four Battels, who as it was rheir turns, or lots, came and fought with much Valour, but little skill; for the thick ſhot of the <hi>Engliſh</hi> Arrows gauling unmiſerably their large Horſes, they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouncing threw their Riders, ſo that they would brook no Rule: This ſoon put their Chavalry into diſorder, and they ruſhing in that confuſed manner, ſoon broke the array of their own foot, ſo that ſuch as were unhorſed or down, were troden to Death by thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own friends, who were not able to relieve them, and ſuch as would have p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſed forward to make proof of their Va<g ref="char:EOLhyphen"/>lour, were driven back by thoſe that retired from the fury of the <hi>Engliſh</hi> Shot: and ſuch as did recoile, were ſtoped, and hindred from flyng, to ſtand the fairer Marks to our Archers.</p>
+               <p>However the <hi>french</hi> kings own Battel, which was better ordered, than the reſt, furiouſly encountred the Battel the Prince led, who per<g ref="char:EOLhyphen"/>formed rare and wonderful feats of Chivalry, which, to the utmoſt of their power, they encreaſed, being animated thereto by the valour and for<g ref="char:EOLhyphen"/>titude of their king, who exceeded all his Nobles in the Action that day.</p>
+               <p>But the Black Prince, and his Battel, which was ſo well marſhal<g ref="char:EOLhyphen"/>led,
+<pb n="18" facs="tcp:105676:10"/> that no diſorder troubled it, uſed proweſs, with undaunted ſpirits, each ſtriving to excell, in ſeats of Army, that the French-men were not able to ſtand long before them; for the Prince, inſpired by the love of his fair Miſtreſs, that ſhe might be the more charmed with his Fame, had vowed, e're the Battel begun, he would that day acquit himſelf like a valiant knight; and he performed it to a wonder (ſcarce credible) fighting amongſt the thickeſt Troops, and beating down his Enemies before him, where ever he came.</p>
+               <p>So that after a bloody fight, the Frency gave way, falling into a ſtrange diſord<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r fled, being ſo violently purſued, that the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>attel in which their King, and <hi>Philip</hi> his Son, fought, being opu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, the Engliſhmen enter<g ref="char:EOLhyphen"/>ed, killing and and b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ating down all before; ſo that a lament<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble cry aroſe th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oughout the French Hoſt, where Sir <hi>Denis Morbeck</hi> took the King, &amp; his Son p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſoners, to whom ten other Gentlemen layd claime Alledging <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>m to be thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſoner; ſo that he was pulled about, and very roughly uſed, till the Black P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince came up, and cauſed their rage to ceaſe; Command<g ref="char:EOLhyphen"/>ing (on pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Death) that none ſhould inſpire the King, or his Son, giv<g ref="char:EOLhyphen"/>ing them comfortable wo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds; and with great Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bowed <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf be<g ref="char:EOLhyphen"/>fore him. which much revived his heavy ſpirits; and that da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feaſted him and his Son, waiting himſelf <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Table, Lodged him in his own bed; provided for <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourable attendance, and ſuppl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed him with all things that wer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wanting: ſo that King <hi>John</hi> ſaid never pri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r met wi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſo Noble and Corteous a Conqueror, and he thought him<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> happy in <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g into ſuch hands, ſince the fortune of war had d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clared agai<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im.</p>
+               <p>In this Battle a great number of the <hi>French</hi> F<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bility and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entry, were ſlain, and above ten thouſand common Soldier<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re were taken Priſſoners ſeventeen Earls, th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce as many Barons, and ſo great a number of Knights, and Gentlemen of Note, that <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Engliſh</hi> Sol<g ref="char:EOLhyphen"/>dier who had feweſt Priſoners, had two; all which, tog<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith the ſpoils of the field, the Prince freely gave them who <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> v<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ntly won them by their ſwords; ſo that there was not a poor man in the Ar<g ref="char:EOLhyphen"/>my, but every one of them had as much Gold, Silver, Plate, Iewels, <hi>&amp;c.</hi> as gave him full ſatisfaction for the Effuſion of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> blood he loſt; and hereupon the Prince marched, with his <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Priſoners to <hi>Burdeaux.</hi> There he went to king <hi>Edward</hi> has Father, to give him an account of his Victory and Succeſs<g ref="char:punc">▪</g> which <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed not only a re<g ref="char:EOLhyphen"/>joycing in the king, but in all <hi>Engliſh-men,</hi> nor was wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting to ſend a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erticular Letter to his fa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Miſtreſs, t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Earl of <hi>Kents</hi> Daugh<g ref="char:EOLhyphen"/>ter, who often be-dewed her Roſie Cheeks with Tears for his Abſince, and the Danger he expoſed him to: The words were theſe:</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="19" facs="tcp:105676:10"/>
+                     <p>
+                        <hi>Faireſt of Creatures, whom amidſt Triumphs and Arms, I let you by this know, that fortune has favoured me with Succeſs over the E<g ref="char:EOLhyphen"/>nemies of my Country, and has been kind to let me reap freſh Law<g ref="char:EOLhyphen"/>rels with my ſword, that at my return I might lay them at your feet, which ſhall be as ſpeedy as the Great Affairs I have in hand will permit; in the mean time, not doubting your Conſtancy and Love, which can only make me Happy on Earth: I am</hi>
+                     </p>
+                     <closer>
+                        <signed>Your Faithful and Obedient Servant, Edward</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The fair Lady receiving this Letter, kiſſed it a thouſand times, and in reading wet it with tears of Ioy, that flowed from her lovely Eyes, bowing eternal Love and Conſtancy to the Mirror of Virtue and Va<g ref="char:EOLhyphen"/>lour, wiſh his ſpeedy Return, and praying for his Safty, writing a very loving Anſwer to him, and praiſing the Greatneſs of his Cou<g ref="char:EOLhyphen"/>rage; yet earneſtly intreating him, if he had any tender Compaſſion of her Life, that was now bound up in his, he would not too far Ex<g ref="char:EOLhyphen"/>poſe himſelf to hazard himſelf among the ſwords of his Enemies, for Fate (as <hi>GOD</hi> forbid) ſhould deſtine his Fall in the Noble Strife, ſhe muſt remain the moſt miſerable Creature on Earth, the poor re<g ref="char:EOLhyphen"/>moinder of her Days.</p>
+               <p>The Prince received this Aſſurance of his Miſtreſſes Love with great joy; and to Comfort her, haſted the ſooner into <hi>England</hi> with his Royal Priſoners, where he was highly welcomed by the King, Queen, and all the Nobility, with the general Acclamations of the People; and the <hi>Savoy</hi> was richly furniſhed for the <hi>French</hi> King and Nobles, where (for a time) he was Royally Entertained, and then re<g ref="char:EOLhyphen"/>moved to the Caſtle of <hi>Windſor,</hi> where he had the liberty of Hawk<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, Hunting, with ſuch Sparts and Paſtimes as he deſired; the king of <hi>England,</hi> and the Black Prince frequently viſiting him, to his great contentment; which noble Vſage begat a laſting Love and Amity be<g ref="char:EOLhyphen"/>tween them.</p>
+               <p>And the Prince impatient to delay his intended Marriage, taking the king his Father in a good humour, after diſcourſing many Affairs, fell on his knees, and humbly beſought him, for all the toyls and ha<g ref="char:EOLhyphen"/>zards he had undertaken, to grant him one ſuit or requeſt, without na<g ref="char:EOLhyphen"/>ming it: The king hereupon gently raiſing him, ſaid; <hi>Fair Son, I know your virtues, duty, and modeſty, ſo great, that will demand nothing but what is honourable; if I would reſign my Crown, I know you would not Accept it while I live, and there is nothing elſe, but you may freely be poſſeſſed of:</hi> Then ſaid the Prince, boldly, <hi>I take</hi>
+                  <pb n="20" facs="tcp:105676:11"/> 
+                  <hi>your Majeſty at your word; my Ambition is far from a Crown, all I humbly Requeſt, is, that I may have the Earl of</hi> Kents <hi>fair Daugh<g ref="char:EOLhyphen"/>ter to be my Wife.</hi> The king was amazed at this Requeſt, as not knowing of their Loves, and plighted Troths; yet ſeeing the Prince earneſtly bent upon it, and hearing what had paſſed between them, he, with a kind of unwilling willingneſs, conſented, becauſe he deſigned to Match him with the Emperor's Daughter, to make a ſtronger Al<g ref="char:EOLhyphen"/>liance between them, to further him in his French Wars: So the Earl his Counteſs, and Daughter, were ſent for to Court, and their Conſent being eaſily had, the Marriage was celebrated with all ima<g ref="char:EOLhyphen"/>ginable Pomp and Ioy, with Masques, Muſick, Dancing, Songs of Triumph and the like; and ſo that Night the lovely Pair, enjoyed their Hearts content, for which they had ſo long wiſhed; and from the Fruits of that Love, ſprung a fair Son, named <hi>Richard,</hi> who ſucceeded his Grand-father in the kingdom; and after a long Reign, was depoſed by <hi>Henry</hi> Duke of <hi>Lancaſter,</hi> who took upon him the Crown, under the Title of <hi>Henry</hi> the <hi>tourth;</hi> and being Depoſed, was murthered in the Caſtle <hi>Pomfret,</hi> by Sir <hi>Peirce</hi> of <hi>Exton,</hi> and ſix other Aſſaſſins; but not degenerating from his heroick Father in ſtrength and volour, ſiezing a Halbert, he wreſted it by main ſtrength out of one of their hands, and killed ſour of them, e're they diſpatch'd him: But to return:</p>
+               <p>The <hi>french</hi> king, and his Son, having been four years Priſoners in <hi>England,</hi> began to Grow weary of it, and therefore, for their Re<g ref="char:EOLhyphen"/>leaſement, made ſeveral advantageous Over-tures to king <hi>Edward,</hi> for their Releaſe, and for a Truce: But <hi>Charles</hi> the <hi>french king's</hi> eldeſt ſon, having gotten the <hi>Regency</hi> into his hands, would not agree with his Father; whereupon the <hi>french king</hi> was committed a cloſer Pri<g ref="char:EOLhyphen"/>ſoner to the Tower; and <hi>king Edward</hi> with the Black Prince ſailded over with an Army, and Landed at <hi>Callice;</hi> and from thence towards <hi>paris,</hi> waſteing the Country as he paſſed, very dreadfully with fire and ſword; ſo that many Towns and Caſtles were yielded to him, by which means he compelled the Regent, and Nobility to become earneſt Petitioners to him for a Peace; and it was Concluded on theſe Articles:</p>
+               <list>
+                  <item>1. <hi>That the</hi> French <hi>King ſhould pay four hundred thouſand punds flerling, for his Ranſom.</hi>
+                  </item>
+                  <item>2. <hi>That no King of</hi> France <hi>ſhould Aid the</hi> Scots <hi>againſt</hi> England, <hi>in any invaſion, or rebellion; nor the</hi> Engliſh <hi>Aſſiſt the</hi> Flemings, <hi>in any War againſt</hi> France.</item>
+                  <pb n="21" facs="tcp:105676:11"/>
+                  <item>3. <hi>That the King of</hi> England <hi>ſhould have, and freely enjoy, with<g ref="char:EOLhyphen"/>out homage, the territories of</hi> Gaſcon, Guyan, <hi>with the precincts, ter<g ref="char:EOLhyphen"/>ritories, caſtles, forts, and towns thereto belonging; alſo the city of</hi> Poictiers, <hi>and</hi> Peregors, <hi>the Earldoms of</hi> Bigrot, Poitiors, <hi>and</hi> Guy<g ref="char:EOLhyphen"/>ens, <hi>the Citys of</hi> Limoges, Tharbes, Guares, Ageu, Anglaſme, Au<g ref="char:EOLhyphen"/>guemois, Kyuern, Courus, <hi>the Lordſhip of</hi> Xantogue, Caumeſen, Hames, Ony, Montrel, <hi>with the Signories</hi> of Callis, Marguiſe, Sand<g ref="char:EOLhyphen"/>gate, <hi>and</hi> Collogne.</item>
+               </list>
+               <p>Theſe glorious Advantages rejoyced the <hi>Engliſh,</hi> and Magnified our Nation throughout the World, who wondred how a handful of people could compel ſo Potent a Kingdom as <hi>france,</hi> to truckle ſo low: And for performance of the Articles, <hi>Charles</hi> the Regent, and the Black prince (in the preſence of ſix knights of each Nation) received the <hi>Holy Sacrament</hi> at the High Altar; and then king <hi>Edward,</hi> with the Prince, returned to <hi>England,</hi> and were (with all Complements of love and kindneſs) entertained, and feaſted, at the Tower, by the <hi>french king,</hi> who was conveyed from thence to <hi>Callice,</hi> where according to Agree<g ref="char:EOLhyphen"/>ment, he remained four Months; and then king <hi>Edward</hi> repaired to him, and both of them (at <hi>High Maſs)</hi> ſolemnly ſwore to perform and keep the Articles; and then king <hi>John</hi> (for Hoſtages of his Ranſom) delivered to king <hi>Edward,</hi> four Dukes, ſeven Earls, ten Barons, ma<g ref="char:EOLhyphen"/>ny knights, and two of the worthieſt Burgeſſes of every great City of <hi>france;</hi> and ſo taking a friendly leave of each other, the king and prince returned with their Honourable Hoſtages to <hi>England,</hi> who were (with all humility and kindneſs) feaſted and entertained by the king, prince, and nobility, and permitted freely to uſe all ſports and paſtimes for exerciſe and pleaſure; and about two years after the conditions of Agreement, being perform'd, king <hi>John</hi> came over to viſit king <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> and the Prince; and to thank them for his former courteous Entertainment; and at the ſame time came the kings of <hi>Scots,</hi> and of <hi>Cyprus;</hi> ſo that there were four kings at once in our Court: But king <hi>John</hi> of <hi>france</hi> falling ſick at the <hi>Savoy</hi> dyed, to the great Grief of both Nations, whence his Body was conveyed to St. <hi>Dennis</hi> in <hi>france,</hi> and there Interr'd amongſt his Royal Anceſtors.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="22" facs="tcp:105676:12"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>How the <hi>Black Prince</hi> Overthrew the Armys of <hi>Spain</hi> and <hi>France,</hi> and Reſtored <hi>Peter</hi> the Depoſed King of <hi>Caſtile</hi> to his Throne: War again Proclaimed with <hi>France,</hi> and many Towns Taken. <hi>John</hi> of <hi>Gaunt, Duke</hi> of <hi>Lancaſter's</hi> great Succeſs, Marriage, <hi>&amp;c.</hi> The <hi>Black Prince's</hi> Sickneſs and Death. A Brief Account of the Battel of <hi>Agen Court,</hi> and the total Conqueſt of <hi>France,</hi> by <hi>Henry</hi> the 5th, of <hi>England,</hi> who was Crowned at <hi>Paris.</hi>
+                  </p>
+               </argument>
+               <p>THE <hi>Black Prince</hi>'s Fame ſpreading over the World, he was ſued to (by Diſtreſſed Kings and Nations) to Aſſiſt and Relieve them with his Valour and Proweſs, and amongſt others, <hi>Peter</hi> King of <hi>Caſtile</hi> being Overthrown in many Battles, by <hi>Henry</hi> his Baſtard Brother, Aſſiſted un<g ref="char:EOLhyphen"/>der hand by <hi>Charles</hi> the New <hi>French</hi> King; Flying his Kingdom, came to the Prince, where he was with his fair Princes at <hi>Burdeaux,</hi> ſetling his New Government in <hi>France,</hi> humbly Imploring him to Re-in-ſtare him in his Kingdom, promiſſing great Rewards and Treaſures, when he ſhould be Re-poſſeſſed.</p>
+               <figure>
+                  <figDesc>battle scene</figDesc>
+               </figure>
+               <p>The <hi>Black Prince,</hi> who was a Comly Stature, Strong Body, Fierce in War, but Mild and Affable in Peace, being Dead (as is ſaid) <hi>King Edward</hi> Created <hi>Richard</hi> the Prince's Son; Prince of <hi>Wales,</hi> Earl of <hi>Leiceſter,</hi> Duke of <hi>Cornwal,</hi> and Appointed him to Succeed in the King<g ref="char:EOLhyphen"/>dom (as has been ſaid) and becauſe he was Young, he Appointed the Re<g ref="char:EOLhyphen"/>gency to the Duke of <hi>Lancaſter,</hi> till he ſhould come of Years to Sway the Scepter; and being Worn out with Age, the toyls of War, and Grief for the Death of the <hi>Black Prince,</hi> he Dyed, when he had Reigned ſomewhat more than Fifty Years, and was Buried at <hi>Weſtminſter:</hi> And thus, Reader, have I fullfilled my promiſe, in a True Account of this Renowned Hiſtor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, not doubting but it will give Delight and Satisfaction to all that Read it; and ſo Encourage us to Imitate our brave Anceſtors, that <hi>france</hi> and other Nations may know, we are ſtill <hi>Engliſh-men,</hi> whoſe Vndaunted Courage cannot be Baffled, but in Contending for Right and Fame, we Dare as much as ever.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books printed for, and ſold by <hi>Charles Bates,</hi> at the Sun and Bible in <hi>Pye-corner,</hi> near <hi>Weſt-Smithfield,</hi> where all Country Chapmen may be Furniſhed with all ſorts of Hiſtorys, ſmall Books and Ballads.</head>
+            <p>THe famous and Renowned Hiſtory of the Three Deſtructions of <hi>Troy.</hi> The famous and Renowned Hiſtory of <hi>Guy,</hi> Earl of <hi>Warwick.</hi> The famous and Delightful Hiſtory of the <hi>Lancaſhire</hi> Witches, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:105676:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
